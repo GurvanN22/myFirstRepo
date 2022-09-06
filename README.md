@@ -7,3 +7,18 @@ Ceci est mon premier readmy, veiller ne pas m'en tenir rigueur.
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 
+
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+
+	x := "uwu"
+	fmt.Println(x)
+}
+
+
+
