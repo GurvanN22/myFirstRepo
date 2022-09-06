@@ -10,17 +10,20 @@ Mon image de profil ce dessous :
 ---
  Et enfin mon code : 
  
-```package main
+```go
+package main
 
 import (
 	"fmt"
 )
 
 func main() {
-	x := "uwu"
-	fmt.Println(x)	
-	
+	repetition := 1000
+	for i := 0; i < repetition; i++ {
+		fmt.Println("amour et bonté")
+	}
 }
+
 ```
 
 ----
